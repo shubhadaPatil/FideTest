@@ -6,6 +6,6 @@ public class gitTest {
 	{
 		System.out.println("in eclipse change");
 		//comments added
-		//comment in git
+		//comment in eclipse
 	}
 }
